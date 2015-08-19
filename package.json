@@ -1,6 +1,6 @@
 {
   "name": "call-once",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Call a function once and no more",
   "main": "index.js",
   "scripts": {
