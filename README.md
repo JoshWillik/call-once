@@ -1,6 +1,6 @@
 # Call Once
 
-Limit dangerious function calls.
+Limit dangerous function calls.
 
 ## Install
 
